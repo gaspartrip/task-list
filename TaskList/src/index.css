@@ -1,0 +1,18 @@
+body {
+    background-image: url('http://getwallpapers.com/wallpaper/full/5/d/e/1110478-cool-purple-abstract-wallpaper-1920x1080-4k.jpg');
+}
+
+nav {
+    width: 100%;
+}
+
+footer {
+    background-color: rgb(42, 39, 39);
+    z-index: 999;
+    position: fixed;
+    bottom:0;
+    width:100%;
+    height:50px; /* Height of the footer */
+    background: rgb(34, 34, 34);
+    padding-top: 1px;
+}
